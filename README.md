@@ -6,7 +6,7 @@ All Programs have been labelled in the manner as instructed by the email.
 
 ## Comments:
 
-1.Program-1.py 
+### 1.Program-1.py 
 
   I taken 3 inputs from the user through 3 variables : "a","b","type_of_operation"
   where 'a' and 'b' are varaibles that take inputs of floating values.
@@ -18,7 +18,7 @@ All Programs have been labelled in the manner as instructed by the email.
   
   Any other string entered would print "Invalid operator".
   
-2.Program-2.py 
+### 2.Program-2.py 
 
   I have inputted the integer from the user to a variable 'a'.
   I have intialized an variable for while loop iteration 'i' where i=1.
@@ -31,7 +31,7 @@ All Programs have been labelled in the manner as instructed by the email.
   b. print (i*2) + 1
   c. increment i through i=i+1
   
-3.Program-3.py 
+### 3.Program-3.py 
 
   Here, I have noted 2 observations from the pattern given in this question:
   a. if a = odd no. , then the number of elements to be displayed in the series is the same as a. If a is even, just subtract 1 to get the odd number to potray the same pattern.
@@ -54,7 +54,7 @@ All Programs have been labelled in the manner as instructed by the email.
   a. if i%2 !=0 (i.e. if i is odd), then simply print i.
   b. increment i through i=i+1
   
-4.Program-4.py 
+### 4.Program-4.py 
 
   I first initialized a list called num = [1,2,3,4,5,6,7,8,9]
   I initalized an empty input list called "ip". 
